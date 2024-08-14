@@ -2,6 +2,9 @@
 
 Welcome to the **Academic Research Paper Information Retrieval System**. This system is designed to help researchers and students easily upload, process, and interact with academic PDFs. By using this tool, you can ask questions related to the content of the PDFs, and the system will retrieve relevant information for you using natural language processing (NLP) techniques powered by Google Vertex AI.
 
+![image](https://github.com/user-attachments/assets/ee5b764d-97ef-449c-980d-858dff3cb734)
+Fig: Screenshot of the app at work
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
